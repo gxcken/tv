@@ -448,6 +448,10 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8?key=txiptv&playliv
 五星体育,http://61.170.164.195:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://222.71.189.186:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 五星体育,http://116.233.232.229:7777/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?key=txiptv&playlive=1&authid=0
+五星体育,http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+五星体育,http://[2409:8087:7001:20:1000::95]:6610/000000001000/0000000000001001/1/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 保定生活健康,http://111.225.113.218:808/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 公共,http://123.160.235.166:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 动漫秀场,http://116.233.232.229:7777/tsfile/live/1052_1.m3u8?key=txiptv&playlive=1&authid=0
